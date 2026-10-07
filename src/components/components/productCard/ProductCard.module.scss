@@ -1,0 +1,18 @@
+
+.section {
+  margin: 50px 0;
+}
+
+.title {
+  font-size: 36px;
+  font-weight: 700;
+  margin-bottom: 32px;
+  color: #000000;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr); 
+  gap: 32px; 
+
+}
